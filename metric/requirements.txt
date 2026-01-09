@@ -1,0 +1,6 @@
+customtkinter
+pillow
+matplotlib
+openpyxl
+fpdf
+google-generativeai
